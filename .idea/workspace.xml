@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62c68cd-003f-42a9-82f7-cda789d80c1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/day1/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.php" beforeDir="false" afterPath="$PROJECT_DIR$/day2/test1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.php" beforeDir="false" afterPath="$PROJECT_DIR$/day2/test2.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +54,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\INTERNSHIP\1 day\demo\day2" />
+      <recent name="F:\INTERNSHIP\1 day\demo\day1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726738454311</updated>
       <workItem from="1726738456049" duration="3858000" />
-      <workItem from="1726801374555" duration="6307000" />
+      <workItem from="1726801374555" duration="9345000" />
     </task>
     <servers />
   </component>
