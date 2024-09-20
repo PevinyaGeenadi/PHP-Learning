@@ -18,8 +18,8 @@
 
    ?>
 
-   <h1>
-       <?php echo $message; ?>
+   <h1><u>
+           <?php echo $message; ?> </u>
    </h1>
 
 </body>
