@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62c68cd-003f-42a9-82f7-cda789d80c1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/dashboard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/day1/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.php" beforeDir="false" afterPath="$PROJECT_DIR$/day2/test1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.php" beforeDir="false" afterPath="$PROJECT_DIR$/day2/test2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/day2/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "PHP Script.test1.php.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/INTERNSHIP/1 day/demo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;PHP Script.test1.php.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/INTERNSHIP/1 day/demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\INTERNSHIP\1 day\demo\day2" />
@@ -77,7 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1726738454311</updated>
       <workItem from="1726738456049" duration="3858000" />
-      <workItem from="1726801374555" duration="9345000" />
+      <workItem from="1726801374555" duration="12449000" />
+      <workItem from="1727075636285" duration="375000" />
     </task>
     <servers />
   </component>
