@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62c68cd-003f-42a9-82f7-cda789d80c1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Simple-Website/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple-Website/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple-Website/about.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple-Website/contact.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple-Website/views/index.view.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-Website/views/about.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-Website/views/about.view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-Website/views/contact.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-Website/views/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-Website/views/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/Simple-Website/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple-Website/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/Simple-Website/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple-Website/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/Simple-Website/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple-Website/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Simple-Website/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +60,8 @@
       <recent name="F:\INTERNSHIP\1 day\demo\Simple-Website\views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\INTERNSHIP\1 day\demo\Simple-Website" />
       <recent name="F:\INTERNSHIP\1 day\demo\Simple-Website\views" />
+      <recent name="F:\INTERNSHIP\1 day\demo\Simple-Website" />
       <recent name="F:\INTERNSHIP\1 day\demo\day2" />
       <recent name="F:\INTERNSHIP\1 day\demo\day1" />
     </key>
@@ -88,7 +87,7 @@
       <workItem from="1727075636285" duration="728000" />
       <workItem from="1727081456016" duration="2221000" />
       <workItem from="1727147384776" duration="10771000" />
-      <workItem from="1727236580314" duration="1767000" />
+      <workItem from="1727236580314" duration="2705000" />
     </task>
     <servers />
   </component>
