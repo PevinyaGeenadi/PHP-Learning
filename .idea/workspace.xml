@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62c68cd-003f-42a9-82f7-cda789d80c1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Simple-Website/partials/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/controllers/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/controllers/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/controllers/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/views/about.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/views/contact.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/views/index.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/views/mlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/views/partials/banner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/views/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/views/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Router/views/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Sessions/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Sessions/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP Sessions/routes.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-Website/partials/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/Simple-Website/partials/nav.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +50,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;PHP Script.test1.php.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/INTERNSHIP/1 day/demo/Simple-Website/views&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "PHP Script.test1.php.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/INTERNSHIP/1 day/demo/PHP Router/views",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\INTERNSHIP\1 day\demo\PHP Router\views" />
+      <recent name="F:\INTERNSHIP\1 day\demo\PHP Router" />
+      <recent name="F:\INTERNSHIP\1 day\demo\PHP Router\controllers" />
       <recent name="F:\INTERNSHIP\1 day\demo\Simple-Website\views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -83,7 +100,7 @@
       <workItem from="1727075636285" duration="728000" />
       <workItem from="1727081456016" duration="2221000" />
       <workItem from="1727147384776" duration="10771000" />
-      <workItem from="1727236580314" duration="8220000" />
+      <workItem from="1727236580314" duration="11043000" />
     </task>
     <servers />
   </component>
