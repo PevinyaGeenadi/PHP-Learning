@@ -14,7 +14,7 @@ require 'header.php';
         <label for="password">Password:</label><br>
         <input type="password" name="password" required><br><br>
 
-        <button type="submit">Signup</button>
+        <button type="submit">Register</button>
     </form>
     <p>Already have an account? <a href="login.php">Login here</a></p>
 </div>

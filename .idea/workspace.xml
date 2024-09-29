@@ -5,34 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62c68cd-003f-42a9-82f7-cda789d80c1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LoginForm/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginForm/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginForm/login_handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginForm/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginForm/partials/banner.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginForm/partials/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginForm/partials/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginForm/partials/mlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginForm/partials/nav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginForm/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginForm/signup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP Sessions/controllers/registration/create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP Sessions/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP Sessions/views/about.view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP Sessions/views/contact.view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP Sessions/views/index.view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP Sessions/views/mlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP Sessions/views/partials/banner.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP Sessions/views/partials/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP Sessions/views/partials/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP Sessions/views/partials/nav.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Sessions/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Sessions/bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Sessions/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Sessions/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Sessions/controllers/notes/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Sessions/controllers/notes/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Sessions/controllers/notes/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Sessions/controllers/notes/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Sessions/controllers/notes/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Sessions/controllers/notes/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Sessions/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Sessions/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/login_handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/login_handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/signup.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +96,7 @@
       <workItem from="1727147384776" duration="10771000" />
       <workItem from="1727236580314" duration="12347000" />
       <workItem from="1727327423863" duration="7598000" />
-      <workItem from="1727348616429" duration="1210000" />
+      <workItem from="1727348616429" duration="5530000" />
     </task>
     <servers />
   </component>
