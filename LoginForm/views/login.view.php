@@ -3,7 +3,7 @@ require 'partials/header.php';
 ?>
 
     <h2>Login</h2>
-    <form action="login_handler.php" method="POST">
+    <form action="../controllers/loginForm.php" method="POST">
         <label for="email">Email:</label><br>
         <input type="email" name="email" required><br><br>
 
@@ -12,7 +12,7 @@ require 'partials/header.php';
 
         <button type="submit">Login</button>
     </form>
-    <p>Don't have an account? <a href="signup.php">Signup here</a></p>
+    <p>Don't have an account? <a href="Register.view.php">Signup here</a></p>
 
 <?php
 require 'partials/footer.php';

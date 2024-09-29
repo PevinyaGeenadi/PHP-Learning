@@ -4,7 +4,7 @@ require 'header.php';
 
 <div class="form">
     <h2>Signup Form</h2>
-    <form action="register.php" border ="2"  method="POST">
+    <form action="../controllers/registerForm.php" border ="2" method="POST">
         <label for="username">Username:</label><br>
         <input type="text" name="username" required><br><br>
 
@@ -16,7 +16,7 @@ require 'header.php';
 
         <button type="submit">Register</button>
     </form>
-    <p>Already have an account? <a href="login.php">Login here</a></p>
+    <p>Already have an account? <a href="login.view.php">Login here</a></p>
 </div>
 
 <?php
