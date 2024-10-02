@@ -1,16 +1,14 @@
 <?php
-require ('partials/header.php');
+    include_once 'header.php';
 ?>
-
-
-    <?php
-    require ('partials/nav.php');
-    ?>
-
-    <?php require ('partials/banner.php'); ?>
-
-    <main>
-        <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+    <h1>Hi <?php
+    if (isset($_SESSION["username"])) {
+        echo $_SESSION["username"] . '!';
+    }else{
+        echo 'user !';
+    }
+    ?></h1>
+    <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
             <p><b>Welcome to our website Home Page!</b> We are dedicated to providing you with the best service and
                 resources to meet your needs. Whether you're exploring our latest products,
                 learning more about our services, or getting in touch with our team, we strive to make your
@@ -19,66 +17,7 @@ require ('partials/header.php');
                 We look forward to serving you!</p>
 
         </div>
-    </main>
 
-<?php
- require ('partials/footer.php');
- ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <?php
+    include_once 'footer.php';
+?> 

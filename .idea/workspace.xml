@@ -5,11 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62c68cd-003f-42a9-82f7-cda789d80c1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LoginForm/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginForm/Validator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginForm/controllers/notes/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginForm/controllers/notes/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginForm/controllers/notes/show.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginForm/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginForm/response.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginForm/router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginForm/views/notes/create.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginForm/views/notes/index.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginForm/views/notes/show.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6572716-3842-47cb-846f-ccfeb692fb7a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6572716-3842-47cb-846f-ccfeb692fb7a/storage_v2/_src_/schema/user_system.I7lV9w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoginForm/login_handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/login_handler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoginForm/logout.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoginForm/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoginForm/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/controllers/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/controllers/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/controllers/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/controllers/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/controllers/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/controllers/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/controllers/loginForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/controllers/loginForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/controllers/registerForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/controllers/registerForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/Routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/views/about.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/views/about.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/views/contact.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/views/contact.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/views/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/views/index.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/views/login.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/views/login.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginForm/views/partials/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/LoginForm/views/partials/nav.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +69,7 @@
     &quot;PHP Script.test1.php.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/INTERNSHIP/1 day/demo/LoginForm/partials&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Music/lasi/learn-php&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,17 +85,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\INTERNSHIP\1 day\demo\LoginForm\partials" />
+      <recent name="F:\INTERNSHIP\1 day\demo\LoginForm\views" />
       <recent name="F:\INTERNSHIP\1 day\demo\LoginForm" />
+      <recent name="F:\INTERNSHIP\1 day\demo\LoginForm\controllers" />
+      <recent name="F:\INTERNSHIP\1 day\demo\LoginForm\partials" />
       <recent name="F:\INTERNSHIP\1 day\demo\PHP Sessions\views" />
-      <recent name="F:\INTERNSHIP\1 day\demo\PHP Router\views" />
-      <recent name="F:\INTERNSHIP\1 day\demo\PHP Router" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\INTERNSHIP\1 day\demo\LoginForm\controllers" />
+      <recent name="F:\INTERNSHIP\1 day\demo\LoginForm" />
       <recent name="F:\INTERNSHIP\1 day\demo\Simple-Website\views" />
       <recent name="F:\INTERNSHIP\1 day\demo\Simple-Website" />
       <recent name="F:\INTERNSHIP\1 day\demo\day2" />
-      <recent name="F:\INTERNSHIP\1 day\demo\day1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -97,6 +123,10 @@
       <workItem from="1727236580314" duration="12347000" />
       <workItem from="1727327423863" duration="7598000" />
       <workItem from="1727348616429" duration="5530000" />
+      <workItem from="1727845883347" duration="11000" />
+      <workItem from="1727847180175" duration="237000" />
+      <workItem from="1727849103363" duration="4196000" />
+      <workItem from="1727866057779" duration="2149000" />
     </task>
     <servers />
   </component>
